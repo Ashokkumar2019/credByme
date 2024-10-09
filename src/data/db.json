@@ -1,0 +1,94 @@
+{
+  "emp": [
+    {
+      "name": "Bhavna Patel singh",
+      "designation": "Senior Developer",
+      "salary": 95000,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Chirag Mehta",
+      "designation": "Project Manager",
+      "salary": 105000
+    },
+    {
+      "id": "5",
+      "name": "Esha Verma",
+      "designation": "HR Manager",
+      "salary": 90000
+    },
+    {
+      "id": "6",
+      "name": "Farhan Khan",
+      "designation": "DevOps Engineer",
+      "salary": 88000
+    },
+    {
+      "id": "8",
+      "name": "Himani Iyer",
+      "designation": "UI/UX Designer",
+      "salary": 72000
+    },
+    {
+      "name": "Jiya Joshi",
+      "designation": "Backend Developer",
+      "salary": "85000",
+      "id": "10"
+    },
+    {
+      "name": "Amit sharma",
+      "designation": "Frontend Developer",
+      "salary": "100000",
+      "id": "11"
+    },
+    {
+      "id": "12",
+      "name": "Lavanya Kulkarni",
+      "designation": "Technical Lead",
+      "salary": 110000
+    },
+    {
+      "id": "13",
+      "name": "Manish Gupta",
+      "designation": "Business Analyst",
+      "salary": 86000
+    },
+    {
+      "id": "14",
+      "name": "Naina Chawla",
+      "designation": "Network Engineer",
+      "salary": 76000
+    },
+    {
+      "name": "harish",
+      "designation": "Scrum Mastera",
+      "salary": "100000",
+      "id": "16"
+    },
+    {
+      "id": "17",
+      "name": "Rahul Mishra",
+      "designation": "Cloud Architect",
+      "salary": 115000
+    },
+    {
+      "id": "18",
+      "name": "Sneha Pandey",
+      "designation": "Support Specialist",
+      "salary": 62000
+    },
+    {
+      "id": "19",
+      "name": "Tarun Bhatt",
+      "designation": "Data Scientist",
+      "salary": 102000
+    },
+    {
+      "name": "Ashok Kumar ",
+      "designation": "designer",
+      "salary": "50000",
+      "id": "44"
+    }
+  ]
+}
